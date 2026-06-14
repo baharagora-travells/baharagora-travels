@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "410826636582",
+    "project_id": "baharagora-travells",
+    "storage_bucket": "baharagora-travells.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410826636582:android:60825ce859e426f02dd5e7",
+        "android_client_info": {
+          "package_name": "com.aistudio.travelapp.vxyza"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcHZA6HLZvaaN8ejTk7v9k7iNlSIupJZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
